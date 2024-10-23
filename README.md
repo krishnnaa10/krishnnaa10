@@ -40,3 +40,11 @@
 ![Blackbox AI](https://img.shields.io/badge/-Blackbox%20AI-05122A?style=flat-square&color=353535)
 
 
+## Connect with me
+<a href="https://github.com/krishnnaa15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="krishnnaa15" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krishnnaa15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnnaa15" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/krishnnaa15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krishnnaa15" height="30" width="40" /></a>
+<a href="https://twitter.com/krishnnaa15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishnnaa15" height="30" width="40" /></a>
+<a href="https://instagram.com/krishnnaa15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishnnaa15" height="30" width="40" /></a>
+<a href="https://wa.me/<your-phone-number>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
+
