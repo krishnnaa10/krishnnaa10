@@ -32,3 +32,11 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat-square&logo=PyCharm&color=353535) 
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat-square&logo=IntelliJ-IDEA&color=353535) 
 ![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-05122A?style=flat-square&logo=Codeblocks&color=353535)
+
+## AI Tools
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat-square&color=353535) 
+![Gemini](https://img.shields.io/badge/-Gemini-05122A?style=flat-square&color=353535) 
+![Claude](https://img.shields.io/badge/-Claude-05122A?style=flat-square&color=353535)
+![Blackbox AI](https://img.shields.io/badge/-Blackbox%20AI-05122A?style=flat-square&color=353535)
+
+
