@@ -26,3 +26,9 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&logo=Tableau&color=353535) 
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat-square&logo=Markdown&color=353535)
 
+## IDEs
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) 
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat-square&logo=Jupyter&color=353535) 
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat-square&logo=PyCharm&color=353535) 
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat-square&logo=IntelliJ-IDEA&color=353535) 
+![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-05122A?style=flat-square&logo=Codeblocks&color=353535)
