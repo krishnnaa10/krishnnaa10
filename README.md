@@ -3,6 +3,12 @@
   <b>Data Analyst</b> | <b>Business Analyst</b> | <b>Power BI Developer</b> | <b>Python Developer</b>
 </p>
 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=krishnnaa10" alt="GitHub Streak">
+  </a>
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnnaa10&label=Profile%20views&color=0e75b6&style=flat" alt="krishnnaa10" /> </p>
 
