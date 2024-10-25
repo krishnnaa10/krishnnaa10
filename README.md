@@ -26,6 +26,7 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&logo=Tableau&color=353535) 
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat-square&logo=Markdown&color=353535)
 
+
 ## Subjects
 ![Data Structure](https://img.shields.io/badge/-Data%20Structure-05122A?style=flat-square&color=353535)
 ![OOPS](https://img.shields.io/badge/-OOPS-05122A?style=flat-square&color=353535)
@@ -44,11 +45,21 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat-square&logo=IntelliJ-IDEA&color=353535) 
 ![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-05122A?style=flat-square&logo=Codeblocks&color=353535)
 
+
 ## AI Tools
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat-square&color=353535) 
 ![Gemini](https://img.shields.io/badge/-Gemini-05122A?style=flat-square&color=353535) 
 ![Claude](https://img.shields.io/badge/-Claude-05122A?style=flat-square&color=353535)
 ![Blackbox AI](https://img.shields.io/badge/-Blackbox%20AI-05122A?style=flat-square&color=353535)
+
+
+## Soft Skills
+![Communication](https://img.shields.io/badge/-Communication-05122A?style=flat-square&color=353535)
+![Organizational](https://img.shields.io/badge/-Organizational-05122A?style=flat-square&color=353535)
+![Adaptability](https://img.shields.io/badge/-Adaptability-05122A?style=flat-square&color=353535)
+![Time Management](https://img.shields.io/badge/-Time%20Management-05122A?style=flat-square&color=353535)
+![Team Work](https://img.shields.io/badge/-Team%20Work-05122A?style=flat-square&color=353535)
+![Critical Thinking](https://img.shields.io/badge/-Critical%20Thinking-05122A?style=flat-square&color=353535)
 
 
 ## Connect with me
