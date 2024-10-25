@@ -26,6 +26,17 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&logo=Tableau&color=353535) 
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat-square&logo=Markdown&color=353535)
 
+## Subjects
+![Data Structure](https://img.shields.io/badge/-Data%20Structure-05122A?style=flat-square&color=353535)
+![OOPS](https://img.shields.io/badge/-OOPS-05122A?style=flat-square&color=353535)
+![DBMS](https://img.shields.io/badge/-DBMS-05122A?style=flat-square&color=353535)
+![Data Science](https://img.shields.io/badge/-Data%20Science-05122A?style=flat-square&color=353535)
+![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-05122A?style=flat-square&color=353535)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat-square&color=353535)
+![Operating System](https://img.shields.io/badge/-Operating%20System-05122A?style=flat-square&color=353535)
+![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-05122A?style=flat-square&color=353535)
+
+
 ## IDEs
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) 
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat-square&logo=Jupyter&color=353535) 
