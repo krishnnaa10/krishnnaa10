@@ -6,6 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnnaa10&label=Profile%20views&color=0e75b6&style=flat" alt="krishnnaa10" /> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnnaa10&show_icons=true&locale=en&layout=compact" alt="krishnnaa10" /></p>
+
+
 ## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) 
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) 
@@ -69,5 +72,6 @@
 <a href="https://x.com/Krishhnaa10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishnnaa15" height="30" width="40" /></a>
 <a href="https://instagram.com/krishnnaa15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishnnaa15" height="30" width="40" /></a>
 <a href="https://wa.me/917870820898" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
+
 
 
