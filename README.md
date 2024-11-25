@@ -69,13 +69,13 @@
 ## Connect with me
 <a href="https://github.com/krishnnaa10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="krishnnaa15" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/krishnnaa15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnnaa15" height="30" width="40" /></a>
+<a href="https://public.tableau.com/app/profile/krishna.mohan.pandey3762/vizzes" target="blank">
+  <img align="center" src="https://public.tableau.com/favicon.ico" alt="tableau-public" height="30" width="40" />
+</a>
 <a href="https://www.hackerrank.com/profile/krishnamohan7486" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krishnnaa15" height="30" width="40" /></a>
 <a href="https://x.com/Krishhnaa10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishnnaa15" height="30" width="40" /></a>
 <a href="https://instagram.com/krishnnaa15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishnnaa15" height="30" width="40" /></a>
 <a href="https://wa.me/917870820898" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
-<a href="https://public.tableau.com/app/profile/krishna.mohan.pandey3762/vizzes" target="blank">
-  <img align="center" src="https://public.tableau.com/favicon.ico" alt="tableau-public" height="30" width="40" />
-</a>
 
 
 
