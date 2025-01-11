@@ -54,9 +54,9 @@
 ## AI Tools
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat-square&color=353535) 
 ![Gemini](https://img.shields.io/badge/-Gemini-05122A?style=flat-square&color=353535) 
-![Claude](https://img.shields.io/badge/-Claude-05122A?style=flat-square&color=353535)
-![Blackbox AI](https://img.shields.io/badge/-Blackbox%20AI-05122A?style=flat-square&color=353535)
-![Copilot](https://img.shields.io/badge/-Copilot-05122A?style=flat-square&logo=github&color=353535)
+![Claude](https://img.shields.io/badge/-Claude-05122A?style=flat-square&color=353535) 
+![Blackbox AI](https://img.shields.io/badge/-Blackbox%20AI-05122A?style=flat-square&color=353535) 
+![Copilot](https://img.shields.io/badge/-Copilot-05122A?style=flat-square&color=353535)
 
 
 ## Soft Skills
