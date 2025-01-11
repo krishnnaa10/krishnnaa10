@@ -27,7 +27,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript&color=353535) 
 ![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat-square&logo=Microsoft-Excel&color=353535) 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&logo=Power-BI&color=353535) 
-![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&logo=Tableau&color=353535) 
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&logo=Tableau&color=353535)
+![Looker](https://img.shields.io/badge/-Looker-05122A?style=flat-square&logo=Looker&color=353535)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat-square&logo=Markdown&color=353535)
 
 
