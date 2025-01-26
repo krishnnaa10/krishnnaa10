@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm KRISHNA MOHAN PANDEY</h1>
 <p align="center">
-  <b>Data Analyst</b> | <b>Business Analyst</b> | <b>Power BI Developer</b> | <b>Python Developer</b>
+  <b>Data Analyst</b> | <b>Business Analyst</b> | <b>Power BI Developer</b> | <b>MIS Executive</b> | <b>Python Developer</b>
 </p>
 
 
