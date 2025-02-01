@@ -59,18 +59,17 @@
 
 
 ## AI Tools  
-
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat-square&logo=openai&logoColor=white) 
-![DeepSeek](https://img.shields.io/badge/-DeepSeek-05122A?style=flat-square&logo=deezer&logoColor=white) 
-![Gemini](https://img.shields.io/badge/-Gemini-05122A?style=flat-square&logo=google&logoColor=white) 
-![Blackbox AI](https://img.shields.io/badge/-Blackbox%20AI-05122A?style=flat-square&logo=codeforces&logoColor=white) 
-![Copilot](https://img.shields.io/badge/-Copilot-05122A?style=flat-square&logo=github&logoColor=white) 
-![Qwen](https://img.shields.io/badge/-Qwen-05122A?style=flat-square&logo=alibabacloud&logoColor=white) 
-![Claude](https://img.shields.io/badge/-Claude-05122A?style=flat-square&logo=anthropic&logoColor=white) 
-![Volkai](https://img.shields.io/badge/-Volkai-05122A?style=flat-square&logo=neovim&logoColor=white) 
-![School Hack](https://img.shields.io/badge/-School%20Hack-05122A?style=flat-square&logo=bookstack&logoColor=white) 
-![Write Human](https://img.shields.io/badge/-Write%20Human-05122A?style=flat-square&logo=ghost&logoColor=white) 
-![GitaGPT](https://img.shields.io/badge/-GitaGPT-05122A?style=flat-square&logo=hugo&logoColor=white)  
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-353535?style=flat-square&logo=openai&logoColor=white) 
+![DeepSeek](https://img.shields.io/badge/-DeepSeek-353535?style=flat-square&logo=deezer&logoColor=white) 
+![Gemini](https://img.shields.io/badge/-Gemini-353535?style=flat-square&logo=google&logoColor=white) 
+![Blackbox AI](https://img.shields.io/badge/-Blackbox%20AI-353535?style=flat-square&logo=codeforces&logoColor=white) 
+![Copilot](https://img.shields.io/badge/-Copilot-353535?style=flat-square&logo=github&logoColor=white) 
+![Qwen](https://img.shields.io/badge/-Qwen-353535?style=flat-square&logo=alibabacloud&logoColor=white) 
+![Claude](https://img.shields.io/badge/-Claude-353535?style=flat-square&logo=anthropic&logoColor=white) 
+![Volkai](https://img.shields.io/badge/-Volkai-353535?style=flat-square&logo=neovim&logoColor=white) 
+![School Hack](https://img.shields.io/badge/-School%20Hack-353535?style=flat-square&logo=bookstack&logoColor=white) 
+![Write Human](https://img.shields.io/badge/-Write%20Human-353535?style=flat-square&logo=ghost&logoColor=white) 
+![GitaGPT](https://img.shields.io/badge/-GitaGPT-353535?style=flat-square&logo=hugo&logoColor=white)  
 
 
 ## Soft Skills
