@@ -8,6 +8,13 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnnaa10&show_icons=true&locale=en&layout=compact" alt="krishnnaa10" /></p>
 
+<h3 align="left">🌱 I’m currently learning</h3>
+<ul>
+  <li>Figma</li>
+  <li>Web Scraping (beautifulSoup)</li>
+  <li>Microsoft Azure</li>
+</ul>
+
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) 
